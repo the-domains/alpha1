@@ -1,0 +1,28 @@
+name: Alpha1
+favicon: null
+layout_spectrum: 0.5819709403440356
+typography_spectrum: 0.15243641147390008
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5686230678111315
+  lightness: 0.23843513568863273
+  saturation: 0.11853735707700253
+  rhythmicContrast: 0.16643207520246506
+purpose: []
