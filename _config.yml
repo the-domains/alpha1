@@ -1,7 +1,7 @@
 name: 'Life!'
 favicon: null
-layout_spectrum: 0.5819709403440356
-typography_spectrum: 0.15243641147390008
+layout_spectrum: 0.55689
+typography_spectrum: 0.52131
 title: 'Life!.com'
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#354044'
+    - '#fdfeff'
+    - '#536768'
+    - '#ced6d8'
+    - '#d0d76e'
   brandStrength: 0.5686230678111315
   lightness: 0.23843513568863273
   saturation: 0.11853735707700253
