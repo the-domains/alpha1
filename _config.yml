@@ -1,8 +1,8 @@
-name: 'Life!'
+name: Life!
 favicon: null
-layout_spectrum: 0.55689
+layout_spectrum: 1
 typography_spectrum: 0.52131
-title: 'Life!.com'
+title: Life!.com
 cta:
   domain: null
   bucket: null
